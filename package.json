@@ -1,0 +1,24 @@
+{
+  "name": "idea-board",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react": "16.4.0",
+    "react-dom": "16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "check-prop-types": "^1.1.2",
+    "enzyme": "3.3.0",
+    "enzyme-adapter-react-16": "1.1.1",
+    "prop-types": "^15.7.2",
+    "react-test-renderer": "16.4.0"
+  }
+}
